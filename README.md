@@ -1,4 +1,4 @@
-![MasterHead](https://wallpaperaccess.com/full/3632449.jpg)
+<!--![MasterHead](https://wallpaperaccess.com/full/3632449.jpg)-->
 
 <h1 align="center">Hi 👋, I'm Mohammad Ehtesham Arif</h1>
 <h3 align="center">A passionate software developer</h3>
